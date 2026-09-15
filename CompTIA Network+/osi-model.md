@@ -21,3 +21,7 @@ Remember ;-) Please Do Not Throw Sausage Pizza Away
 Are not the GUI applications. Application protocols. Applications sits on top of this Layer 7.  
 Application protocols: SMTP, SNMP, HTTP, FTP, LDP, IMAP, Telnet, POP3, NNTP, EDI
 
+## Presentation (Layer 6)
+Format the data. Data conversion. Compression. Encryption and decryption.
+Formats: ASCII, EBCDIC, TIFF, JPEG, MPEG, MIDI
+
