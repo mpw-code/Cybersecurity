@@ -1,19 +1,20 @@
-Current role: Senior Security Officer in a Cybersecurityteam with Cybersecurity Engineers.
+## Current role: Senior Security Officer in a Cybersecurity team, working alongside Cybersecurity Engineers for a large educational organization with over 3,500 employees and 40,000 students.
 
-Cybersecurity: Certified Ethical Hacker (CEH), Certified Security Analyst (EC-Council) and CISSP training.
-IT Service Management: ITIL 4 Foundation – Service Management.
-Project Management: Certified ScrumMaster (Scrum Alliance) and Agile/Scrum methodologies.
-IT Management: AFAS HRM, Finance & Procurement – 16 functional management certificates.
-Leadership & Communication: Effective Communication, Coaching Leadership, Time Management and Results-Oriented Working.
-Policy & Advisory: Certified in writing professional advice, policies and management documents.
-Programming: Python, PowerShell, TypeScript, Flask, Java, PHP, JavaScript and C/C++.
-Software Development: Java Software Development (HBO), Visual Studio MFC C++, UML and software development principles.
-Database & Data: SQL Database & Data Warehousing and Data Warehousing Masterclass.
-Systems & Networking: Unix, Novell NetWare 3.12 system administration, network configuration and system fine-tuning.
-Embedded Systems: Embedded C Programming for Digital TV, completed in Denver, USA.
-IT Education: MBO-4 Programming and Higher Mathematics; MBO Informatics and Electrical Engineering.
-Cybersecurity & Physical Security: Security Certificate B and Event Security Officer qualification.
-Emergency Response: Certified First Aid/Basic Life Support (BHV), including CPR, injuries, fractures and bleeding.
-Digital Marketing: Google Online Marketing certification.
-Military Training: Armoured Infantry / Land Forces paramilitary training.
-Electrical Engineering: LTS Electrical Engineering.
+- Cybersecurity: Certified Ethical Hacker (CEH), Certified Security Analyst (EC-Council) and CISSP training.
+- IT Service Management: ITIL 4 Foundation – Service Management.
+- Information Security Awareness: Experience developing and coordinating information security awareness programs.
+- Project Management: Certified ScrumMaster (Scrum Alliance) and Agile/Scrum methodologies.
+- IT Management: AFAS HRM, Finance & Procurement – 16 functional management certificates.
+- Leadership & Communication: Effective Communication, Coaching Leadership, Time Management and Results-Oriented Working.
+- Policy & Advisory: Certified in writing professional advice, policies and management documents.
+- Programming: Python, PowerShell, TypeScript, Flask, Java, PHP, JavaScript and C/C++.
+- Software Development: Java Software Development (HBO), Visual Studio MFC C++, UML and software development principles.
+- Database & Data: SQL Database & Data Warehousing and Data Warehousing Masterclass.
+- Systems & Networking: Unix, Novell NetWare 3.12 system administration, network configuration and system fine-tuning.
+- Embedded Systems: Embedded C Programming for Digital TV, completed in Denver, USA.
+- IT Education: Programming and Higher Mathematics; Informatics and Electrical Engineering.
+- Cybersecurity & Physical Security: Security Certificate B and Event Security Officer qualification.
+- Emergency Response: Certified First Aid/Basic Life Support (BHV), including CPR, injuries, fractures and bleeding.
+- Digital Marketing: Google Online Marketing certification.
+- Military Training: Armoured Infantry / Land Forces paramilitary training.
+- Electrical Engineering: Secundairy Electrical Engineering.
