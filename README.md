@@ -1,5 +1,7 @@
 ## Current role: Senior Security Officer in a Cybersecurity team, working alongside Cybersecurity Engineers for a large educational organization with over 3,500 employees and 40,000 students.
 
+ICT Experience: 25+ years of broad experience across IT, cybersecurity, system administration, software development, IT management and information security: 
+
 - Cybersecurity: Certified Ethical Hacker (CEH), Certified Security Analyst (EC-Council) and CISSP training.
 - IT Service Management: ITIL 4 Foundation – Service Management.
 - Information Security Awareness: Experience developing and coordinating information security awareness programs.
