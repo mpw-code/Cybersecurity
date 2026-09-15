@@ -1,5 +1,5 @@
 ## Current role: Senior Security Officer
-Active in a Cybersecurity team, working alongside Cybersecurity Engineers for a large educational organization with over 3,500 employees and 40,000 students.
+Active in a Cybersecurity team, working alongside Cybersecurity Engineers and IT Specialists for a large educational organization with over 3,500 employees and 40,000 students.
 
 ICT Experience: 25+ years of broad experience across IT, cybersecurity, system administration, software development, IT management and information security: 
 
