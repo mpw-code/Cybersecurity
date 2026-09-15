@@ -17,11 +17,30 @@ Remember ;-) Please Do Not Throw Sausage Pizza Away
 - Encapsulation when data goes DOWN the model from 7 (Application) to 1 (Physical).
 - De-encapsulation when data goes UP the model from 1 (Physical) to 7 (Application).
 
-## Application (Layer 7)
+## Application (Layer 7) - software on your machine
 Are not the GUI applications. Application protocols. Applications sits on top of this Layer 7.  
 Application protocols: SMTP, SNMP, HTTP, FTP, LDP, IMAP, Telnet, POP3, NNTP, EDI
 
-## Presentation (Layer 6)
-Format the data. Data conversion. Compression. Encryption and decryption.
-Formats: ASCII, EBCDIC, TIFF, JPEG, MPEG, MIDI
+## Presentation (Layer 6) - software on your machine
+Format the data. Data conversion. Compression. Encryption and decryption.  
+Formats: ASCII, EBCDIC, TIFF, JPEG, MPEG, MIDI  
+
+## Session (Layer 5) - software on your machine
+Provides logical connection between machines. Creates, monitors, shutdown the session.  
+Full duplex: send and receive data at the same time  
+Half duplex: send and receive data NOT at the same time. Wait between messages.  
+Simplex: Can only send (like a satelite)  
+Network File Systemen (NFS), NetBIOS  
+
+## Transport (Layer 4)
+
+
+## Network (Layer 5)
+
+
+## Data Link (Layer 6)
+
+
+## Physical (Layer 7)
+
 
