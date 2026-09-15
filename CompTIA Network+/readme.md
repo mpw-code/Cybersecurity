@@ -1,7 +1,7 @@
 # CompTIA Network+ Subjects
 
-1\. [ ] Networking Fundamentals
-2\. [x] OSI Model
+1\ [ ] Networking Fundamentals
+2\ [x] OSI Model
 3. Network Devices
 4. IP Addressing
 5. Network Protocols
