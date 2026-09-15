@@ -35,12 +35,12 @@ Network File Systemen (NFS), NetBIOS
 ## Transport (Layer 4)
 
 
-## Network (Layer 3)
+## Network (Layer 3) - movement of data
 
 
-## Data Link (Layer 2)
+## Data Link (Layer 2) - movement of data
 
 
-## Physical (Layer 1)
+## Physical (Layer 1) - movement of data
 
 
