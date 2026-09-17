@@ -35,11 +35,11 @@ Simplex: Can only send (like a satelite)
 Network File Systemen (NFS), NetBIOS  
 
 ## Transport (Layer 4)
+TCP and UDP ports 0-1023 / 1024-49151 / ..  
 When data has arrived it falls into the Transport layer.  
 Busy layer. Has to check for error. UDP en TCP.  
 UDP= connection less. Best effort. TCP - oriented and reliable.  
 Also SSL, TSL, TLS  
-TCP and UDP ports 0-1023 / 1024-49151 / ..  
 
 ## Network (Layer 3) - movement of data
 Move data between 2 hosts not physically connected  
@@ -48,10 +48,16 @@ IP is at this layer
 IPSec Internet Protocol Security  
 
 ## Data Link (Layer 2) - movement of data
-
+Gets packet from the network layer.  
+Converts data into bits.  
+Frames / MAC address (Media Access Control)  
+ARP resolves IP into MAC.  
 
 ## Physical (Layer 1) - movement of data
-
+Bits 1 and 0.  
+Receives bits from the datalink layer.  
+converts into electrical signals.  
+Cables, connectors, 10BASE.  
 
 
 
