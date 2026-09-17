@@ -33,14 +33,24 @@ Simplex: Can only send (like a satelite)
 Network File Systemen (NFS), NetBIOS  
 
 ## Transport (Layer 4)
-
+When data has arrived it falls into the Transport layer.
+Busy layer. Has to check for error. UDP en TCP.
+UDP= connection less. Best effort. TCP - oriented and reliable.
+Also SSL, TSL, TLS
+TCP and UDP ports 0-1023 / 1024-49151 / ..
 
 ## Network (Layer 3) - movement of data
-
+Move data between 2 hosts not physically connected
+Use logical address IP
+IP is at this layer
+IPSec Internet Protocol Security
 
 ## Data Link (Layer 2) - movement of data
 
 
 ## Physical (Layer 1) - movement of data
 
+
+
+<img width="1226" height="1283" alt="image" src="https://github.com/user-attachments/assets/80b1bdd5-7f97-4ab8-bc09-4a62ede7eb50" />
 
