@@ -2,7 +2,7 @@
 
 Open System Interconnection
 
-<img width="1226" height="1283" alt="image" src="https://github.com/user-attachments/assets/80b1bdd5-7f97-4ab8-bc09-4a62ede7eb50" />
+<img width="1226" height="1283" alt="image" src="https://github.com/user-attachments/assets/2e9d84d9-e3de-41eb-b86b-ffbe155a649e" />
 
 ## The 7 layers
 
