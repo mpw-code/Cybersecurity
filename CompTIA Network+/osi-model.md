@@ -22,6 +22,7 @@ Remember ;-) Please Do Not Throw Sausage Pizza Away
 ## Application (Layer 7) - software on your machine
 Are not the GUI applications. Application protocols. Applications sits on top of this Layer 7.  
 Application protocols: SMTP, SNMP, HTTP, FTP, LDP, IMAP, Telnet, POP3, NNTP, EDI
+Encapsulation start here at the top at layer 7.
 
 ## Presentation (Layer 6) - software on your machine
 Format the data. Data conversion. Compression. Encryption and decryption.  
