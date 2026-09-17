@@ -1,5 +1,7 @@
 ## Types of Network
 
+<img width="1226" height="1283" alt="image" src="https://github.com/user-attachments/assets/bc5fe8a6-9f82-4d55-8651-691572ba99f5" />
+
 - LAN Local Area Network - Could be 2 or 1000 hosts in a building
 - WAN Wide Area Network - Spans the globe
 - MAN Metropolitan Area Network - Covers a city (smaller than WAN)
