@@ -2,6 +2,8 @@
 
 Open System Interconnection
 
+<img width="1226" height="1283" alt="image" src="https://github.com/user-attachments/assets/80b1bdd5-7f97-4ab8-bc09-4a62ede7eb50" />
+
 ## The 7 layers
 
 - Layer 7 – Application: Provides network services directly to applications, such as HTTP, DNS, and SMTP.
@@ -52,5 +54,5 @@ IPSec Internet Protocol Security
 
 
 
-<img width="1226" height="1283" alt="image" src="https://github.com/user-attachments/assets/80b1bdd5-7f97-4ab8-bc09-4a62ede7eb50" />
+
 
