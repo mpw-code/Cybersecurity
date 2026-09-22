@@ -1,4 +1,4 @@
-## Installation and configuration of:
+## Installation, configuration and documentation of:
 
 - [X] Hyper-V server   
 - [X] Webserver 
