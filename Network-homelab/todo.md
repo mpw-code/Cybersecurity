@@ -1,4 +1,4 @@
-[X] Hyper-V server  
-[X] Webserver  
-[X] Firewall  
-[ ] Redundancy Loadbalancer  
+- [X] Hyper-V server  
+- [X] Webserver  
+- [X] Firewall  
+- [ ] Redundancy Loadbalancer  
